@@ -1,0 +1,5 @@
+git add . //add all new file
+
+git commit -m "your description commit" 
+
+git push -f origin master //push your project
